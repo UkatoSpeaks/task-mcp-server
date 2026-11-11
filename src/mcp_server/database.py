@@ -82,6 +82,6 @@ if __name__ == "__main__":
         "task_id":"1",
         "title":"new task",
         "description":"this is a new task",
-        "status":"to do",
+        "status":"todo",
         "priority":"low"
     })
